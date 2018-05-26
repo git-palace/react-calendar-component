@@ -8,8 +8,6 @@ An example project that explores various _*[React](facebook.github.io/react/)_ c
 
 Poke around [src/components/](src/components/), [src/stories/](src/stories/) or...
 
-...go play with the live examples via [Storybook](https://getstorybook.io/): [https://erikthedeveloper.github.io/react-calendar-components/](https://erikthedeveloper.github.io/react-calendar-components/?selectedKind=Composing%20Calendar&selectedStory=Select%20Range%20%2B%20Day%20Indicators&full=0&down=0&left=1&panelRight=0&downPanel=kadirahq%2Fstorybook-addon-actions%2Factions-panel)
-
 ![composingcalendarfun](https://cloud.githubusercontent.com/assets/1240178/21851184/223de5de-d7cb-11e6-8ca2-120364b5b317.gif)
 
 ## React Concepts
@@ -43,7 +41,6 @@ To summarize the overall approach used and application:
 :memo: [`yarn` is interchangeable with `npm`](https://yarnpkg.com/en/docs/migrating-from-npm).
 
 ```
-git clone git@github.com:erikthedeveloper/react-calendar-components.git
 cd react-calendar-components
 yarn install
 yarn start
